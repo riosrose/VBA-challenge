@@ -10,7 +10,7 @@ File "a" dataset (Multiple_year_stock_data.xlsx)
 # Technologies Used: Excel and VBA Scripts Macros 
 
 # Code
-Source Code stored in this repo demonstrates the use of VBA script looping through one-quarter and runs successfully across all sheets (each quarter) : 
+Source Code stored in this repo demonstrates the use of VBA scripts looping through one-quarter and runs successfully across all sheets (each quarter) : 
 
          a) the script loops through one-quarter of stock data and reads/ stores values from each row of the 
             following: ticker symbol, volume of stock, open price, and close price. 
