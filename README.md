@@ -27,7 +27,9 @@ This file contains the ............:
          b) Module2.bas: Script that will create, store, calculate, and populate code items "d" (as noted above) 
          
 **Results_Screenshots: https://github.com/riosrose/VBA-challenge/tree/main/Results_Screenshots
+
 The file contains PDFs images of the result of each stock quarter after the above code scripts "a-d" are run: 
+
           Module1Script_ Q1outputs.PNG
           Module1Script_ Q2outputs.PNG
           Module1Script_ Q3outputs.PNG
