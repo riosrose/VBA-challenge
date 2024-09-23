@@ -14,7 +14,7 @@ Source Code stored in this repo demonstrates the use of VBA script looping throu
 
          a) the script loops through one-quarter of stock data and reads/ stores values from each row of the 
             following: ticker symbol, volume of stock, open price, and close price. 
-         b) Columns are created for the ticker symbol, total volume, quarterly change, and percent change,                    in the same worksheet.
+         b) Columns are created for the ticker symbol, total volume, quarterly change, and percent change, in the same worksheet.
          c) Conditional formatting is applied to both the quarterly change and percent change columns.
          d) The script will calculate and display: 1) the greatest percentage increase, 2) greatest percentage 
             decrease, and 3) greatest total volume.
