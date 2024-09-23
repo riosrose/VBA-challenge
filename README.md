@@ -11,6 +11,7 @@ File "a" dataset (Multiple_year_stock_data.xlsx)
 
 # Code
 Source Code stored in this repo demonstrates the use of VBA script looping through one-quarter and runs successfully across all sheets (each quarter) : 
+
          a) the script loops through one-quarter of stock data and reads/ stores values from each row of the 
             following: ticker symbol, volume of stock, open price, and close price. 
          b) Columns are created for the ticker symbol, total volume, quarterly change, and percent change,                    in the same worksheet.
@@ -19,7 +20,9 @@ Source Code stored in this repo demonstrates the use of VBA script looping throu
             decrease, and 3) greatest total volume.
 
 **VBA scripts: https://github.com/riosrose/VBA-challenge/tree/main/VBA%20Scripts
+
 This file contains the ............: 
+
          a) Module1.bas: Script that will create, store, calculate, populate, format code items "a-c" ( as noted above) 
          b) Module2.bas: Script that will create, store, calculate, and populate code items "d" (as noted above) 
          
