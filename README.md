@@ -20,10 +20,11 @@ Source Code stored in this repo demonstrates the use of VBA script looping throu
 
 **VBA scripts: https://github.com/riosrose/VBA-challenge/tree/main/VBA%20Scripts
 This file contains the ............: 
-         a) Module1.bas
-         b) Module2.bas
+         a) Module1.bas: Script that will create, store, calculate, populate, format code items "a-c" ( as noted above) 
+         b) Module2.bas: Script that will create, store, calculate, and populate code items "d" (as noted above) 
+         
 **Results_Screenshots: https://github.com/riosrose/VBA-challenge/tree/main/Results_Screenshots
-The file is contains: 
+The file contains PDFs images of the result of each stock quarter after the above code scripts "a-d" are run: 
           Module1Script_ Q1outputs.PNG
           Module1Script_ Q2outputs.PNG
           Module1Script_ Q3outputs.PNG
